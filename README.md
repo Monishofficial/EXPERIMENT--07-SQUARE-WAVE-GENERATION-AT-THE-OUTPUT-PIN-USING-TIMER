@@ -242,7 +242,6 @@ void assert_failed(uint8_t *file, uint32_t line)
 ### FREQUENCY = 1/(TOTAL TIME)
 
 ## FOR PULSE AT 70%
-![7000](https://github.com/Monishofficial/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/149455421/0e97af36-cde3-4ef5-8f94-99981be69699)
 
 ### TON = 
 ### TOFF=
@@ -251,7 +250,6 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## FOR PULSE AT 90%
-![9000](https://github.com/Monishofficial/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/149455421/8caf2f0e-bd94-4e6b-aa6e-d711521e34f5)
 
 ### TON = 
 ### TOFF=
