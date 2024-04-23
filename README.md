@@ -236,26 +236,26 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## FOR PULSE AT 50%
 ![PMMC_5000](https://github.com/Monishofficial/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/149455421/5fce1aa7-a983-4fa9-8de6-48a1d63581c3)
 
-### TON = 
-### TOFF=
-### TOTAL TIME = 
-### FREQUENCY = 1/(TOTAL TIME)
+### TON = 0.66 ms.
+### TOFF= 0.62 ms.
+### TOTAL TIME = 1.28 ms
+### FREQUENCY = 781.25 Hz.
 
 ## FOR PULSE AT 70%
 ![PMMC_7000](https://github.com/Monishofficial/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/149455421/5c457bed-6671-44b7-ba66-f4d1d874c5ba)
 
-### TON = 
-### TOFF=
-### TOTAL TIME = 
-### FREQUENCY = 1/(TOTAL TIME)
+### TON = 0.86 ms.
+### TOFF= 0.38 ms.
+### TOTAL TIME = 1.24 ms.
+### FREQUENCY = 806.45 Hz
 
 ## FOR PULSE AT 90%
 ![PMMC_9000](https://github.com/Monishofficial/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/149455421/e5fc0906-ff97-4500-adbf-54334268fdf8)
 
-### TON = 
-### TOFF=
-### TOTAL TIME = 
-### FREQUENCY = 1/(TOTAL TIME)
+### TON = 1.12 ms.
+### TOFF= 0.14 ms.
+### TOTAL TIME = 1.26 ms.
+### FREQUENCY = 793.65 Hz.
 
 
 ## Result :
