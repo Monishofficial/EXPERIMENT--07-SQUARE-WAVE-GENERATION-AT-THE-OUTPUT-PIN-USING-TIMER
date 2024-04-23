@@ -234,7 +234,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 ## FOR PULSE AT 50%
-![5000](https://github.com/Monishofficial/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/149455421/e9a7cb4a-e3ca-4dc1-b5bb-562305b17e3f)
+![PMMC_5000](https://github.com/Monishofficial/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/149455421/7e04844d-385e-40d7-bd38-a9b6d36d69c1)
+
 
 ### TON = 
 ### TOFF=
@@ -242,6 +243,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 ### FREQUENCY = 1/(TOTAL TIME)
 
 ## FOR PULSE AT 70%
+![PMMC_7000](https://github.com/Monishofficial/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/149455421/8f57d21b-3e8e-4951-8dc1-a84a60b7a675)
 
 ### TON = 
 ### TOFF=
@@ -250,6 +252,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## FOR PULSE AT 90%
+![PMMC_9000](https://github.com/Monishofficial/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/149455421/598073d9-8fe6-4614-b779-d9c8a416ad95)
 
 ### TON = 
 ### TOFF=
